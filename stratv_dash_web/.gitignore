@@ -1,0 +1,5 @@
+TM.exe
+venv 
+*.pyc 
+.env 
+.DS_Store

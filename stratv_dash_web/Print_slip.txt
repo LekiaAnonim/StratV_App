@@ -1,0 +1,15 @@
+19TH COTTAGE ENERGY LIMITED 
+DATE AND TIME: May 04, 2021 | 10:51:53
+
+TRANSACTION DETAILS 
+Name of Customer: Rock
+Phone Number: 08137110189
+Price Per Kg: 3000 Naira
+Amount Paid: 4000 Naira
+Number of Kg Purchased: 5kg
+Payment Mode: Cash
+Purchased Price: 3000 Naira
+Balance:  1000.00 Naira
+Debt: 300
+Credit: 0
+Status: Cleared
